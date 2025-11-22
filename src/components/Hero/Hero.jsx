@@ -30,7 +30,7 @@ const Hero = () => {
 
                 <Btncard
                     className='pb-3'
-                    linkUrl='https://www.instagram.com/fandeco3d'
+                    linkUrl='https://www.instagram.com/fan.deco3d'
                     btnText=''
                     btnsimbolo='bi-instagram'
                     classSpan='col-span-1'
@@ -38,12 +38,11 @@ const Hero = () => {
 
                 <Btncard
                     className='pb-3'
-                    linkUrl='https://www.tiktok.com/@fandeco3d'
+                    linkUrl='https://www.tiktok.com/@fan.deco3d'
                     btnText=''
                     btnsimbolo='bi-tiktok'
                     classSpan='col-span-1'
                 />
-
             </div>
         </div>
     )
